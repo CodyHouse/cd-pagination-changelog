@@ -1,7 +1,8 @@
-README.md
 # 📦 Pagination - changelog
 
-Use this repository to report bugs and get notified about changes affecting the [Pagination](https://codyhouse.co/ds/components/app/pagination) component.
+Use this repository to report bugs and get notified about changes affecting the Pagination component.
+
+[Live Demo →](https://codyhouse.co/ds/components/app/pagination)
 
 When reporting a bug, please make sure to include the following info:
 
